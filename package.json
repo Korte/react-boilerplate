@@ -4,6 +4,7 @@
   "description": "Template for new React projects",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sonny@korte.dk",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Korte/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/Korte/react-boilerplate#readme"
+  "homepage": "https://github.com/Korte/react-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
 }
