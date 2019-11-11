@@ -1,0 +1,11 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.1.0",
+  "description": "Template for new React projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sonny@korte.dk",
+  "license": "ISC"
+}
