@@ -13,3 +13,6 @@
 
 - [ ] [Set up Testing Globals in an Application with Jest](https://egghead.io/lessons/jest-set-up-testing-globals-in-an-application-with-jest)
   - skipped this because I don't use globals for now
+
+- [ ][Configure Prettier to Automatically Format Code](https://egghead.io/lessons/javascript-configure-prettier-to-automatically-format-code)
+  - skipped and I will look at this later
