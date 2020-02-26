@@ -16,3 +16,6 @@
 
 - [ ][Configure Prettier to Automatically Format Code](https://egghead.io/lessons/javascript-configure-prettier-to-automatically-format-code)
   - skipped and I will look at this later
+
+- [X] [Run Linting, Tests and Prettier in git Hooks with Husky](https://egghead.io/lessons/git-run-linting-tests-and-prettier-in-git-hooks-with-husky)
+  - use husky 1.3.1 
