@@ -18,4 +18,4 @@
   - skipped and I will look at this later
 
 - [X] [Run Linting, Tests and Prettier in git Hooks with Husky](https://egghead.io/lessons/git-run-linting-tests-and-prettier-in-git-hooks-with-husky)
-  - use husky 1.3.1 
+  - use husky 2.7.0 - the latest version breaks because of incompatible with git version 2.11.0
