@@ -37,6 +37,7 @@
     "css-loader": "^3.2.0",
     "husky": "^2.7.0",
     "jest": "^25.1.0",
+    "react-axe": "^3.4.1",
     "style-loader": "^1.0.1",
     "webpack": "^4.41.6",
     "webpack-bundle-analyzer": "^3.6.0",
