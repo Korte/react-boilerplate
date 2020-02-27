@@ -26,3 +26,5 @@
 - [X] [Define Prop Types for a React Class Component](https://egghead.io/lessons/react-define-prop-types-for-a-react-class-component)
   - as this stage I haven't followed the step for lint so thsi is done withoout linting
 
+- [X] [Check for Accessibility Issues in the Browser with react-axe](https://egghead.io/lessons/aria-check-for-accessibility-issues-in-the-browser-with-react-axe)
+ - this could potentiolly be a good thing but we usually don't use that when we are developing internal tools [Be an accessibility expert](https://dequeuniversity.com)
