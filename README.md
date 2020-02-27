@@ -14,7 +14,7 @@
 - [ ] [Set up Testing Globals in an Application with Jest](https://egghead.io/lessons/jest-set-up-testing-globals-in-an-application-with-jest)
   - skipped this because I don't use globals for now
 
-- [ ][Configure Prettier to Automatically Format Code](https://egghead.io/lessons/javascript-configure-prettier-to-automatically-format-code)
+- [ ] [Configure Prettier to Automatically Format Code](https://egghead.io/lessons/javascript-configure-prettier-to-automatically-format-code)
   - skipped and I will look at this later
 
 - [X] [Run Linting, Tests and Prettier in git Hooks with Husky](https://egghead.io/lessons/git-run-linting-tests-and-prettier-in-git-hooks-with-husky)
@@ -22,3 +22,7 @@
 
 - [X] [Create an Error Boundary for a React App](https://egghead.io/lessons/react-create-an-error-boundary-for-a-react-app)
   - 
+
+- [X] [Define Prop Types for a React Class Component](https://egghead.io/lessons/react-define-prop-types-for-a-react-class-component)
+  - as this stage I haven't followed the step for lint so thsi is done withoout linting
+
