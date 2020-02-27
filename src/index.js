@@ -4,5 +4,11 @@ import "core-js/stable";
 import "regenerator-runtime/runtime";
 import App from './App'
 import './styles.css'
+import DefaultErrorBoundary from './DefaultErrorBoundary';
 
-ReactDom.render(<App/>, document.getElementById('app') )
+ReactDom.render(    
+    <DefaultErrorBoundary>
+        <App/>
+    </DefaultErrorBoundary>
+
+, document.getElementById('app') )

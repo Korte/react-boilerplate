@@ -19,3 +19,6 @@
 
 - [X] [Run Linting, Tests and Prettier in git Hooks with Husky](https://egghead.io/lessons/git-run-linting-tests-and-prettier-in-git-hooks-with-husky)
   - use husky 2.7.0 - the latest version breaks because of incompatible with git version 2.11.0
+
+- [X] [Create an Error Boundary for a React App](https://egghead.io/lessons/react-create-an-error-boundary-for-a-react-app)
+  - 
