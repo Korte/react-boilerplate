@@ -8,8 +8,7 @@
   - a lot of warnings and a depricated package when installing Jest. Jest seems to be the prefered tool to test React but let's see about that. 
 
 - [X] [Set Up Tests that Render a React Component with Jest and Babel](https://egghead.io/lessons/jest-set-up-tests-that-render-a-react-component-with-jest-and-babel)
-  - this is very much outdated and you have to read the comments very carefully and a lot of the imports 
-  - are not required at all
+  - this is very much outdated and you have to read the comments very carefully and a lot of the imports are not required at all
 
 - [ ] [Set up Testing Globals in an Application with Jest](https://egghead.io/lessons/jest-set-up-testing-globals-in-an-application-with-jest)
   - skipped this because I don't use globals for now
@@ -21,10 +20,13 @@
   - use husky 2.7.0 - the latest version breaks because of incompatible with git version 2.11.0
 
 - [X] [Create an Error Boundary for a React App](https://egghead.io/lessons/react-create-an-error-boundary-for-a-react-app)
-  - 
+  - no comments
 
 - [X] [Define Prop Types for a React Class Component](https://egghead.io/lessons/react-define-prop-types-for-a-react-class-component)
   - as this stage I haven't followed the step for lint so thsi is done withoout linting
 
 - [X] [Check for Accessibility Issues in the Browser with react-axe](https://egghead.io/lessons/aria-check-for-accessibility-issues-in-the-browser-with-react-axe)
  - this could potentiolly be a good thing but we usually don't use that when we are developing internal tools [Be an accessibility expert](https://dequeuniversity.com)
+
+- [X] [Create a New Project by Cloning the Boilerplate Project](https://egghead.io/lessons/git-create-a-new-project-by-cloning-the-boilerplate-project)
+ - Cleaned up the project and it should be ready to use
